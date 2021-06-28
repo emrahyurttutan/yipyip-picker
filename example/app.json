@@ -1,0 +1,22 @@
+{
+  "name": "yipyip-picker-example",
+  "displayName": "YipyipPicker Example",
+  "expo": {
+    "name": "yipyip-picker-example",
+    "slug": "yipyip-picker-example",
+    "description": "Example app for yipyip-picker",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
