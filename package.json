@@ -1,6 +1,6 @@
 {
   "name": "yipyip-picker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "react native picker",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
