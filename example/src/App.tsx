@@ -28,7 +28,7 @@ export default function App() {
               value: '3',
             },
           ]}
-          placeholder="Cinsiyet"
+          placeholder="Gender"
           placeholderTextColor={'#575A61'}
           selectedKey={String(gender)}
           onChangeText={(data: any) => {
@@ -36,7 +36,7 @@ export default function App() {
             setGender(data.value);
           }}
         />
-        <Button title="Temizle" onPress={() => setGender(0)} />
+        <Button title="Clear" onPress={() => setGender(0)} />
       </View>
     </View>
   );
@@ -47,10 +47,5 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-  },
-  box: {
-    width: 60,
-    height: 60,
-    marginVertical: 20,
   },
 });
