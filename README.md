@@ -68,9 +68,9 @@ const styles = StyleSheet.create({
 
 ## Screen Shot
 
-<img width="800px" src="./screenshot/screenshot1.PNG"/>
+<img height="800px" src="./screenshot/screenshot1.PNG"/>
 <br/>
-<img width="800px" src="./screenshot/screenshot2.PNG"/>
+<img height="800px" src="./screenshot/screenshot2.PNG"/>
 
 ## Contributing
 
