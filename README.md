@@ -67,11 +67,11 @@ const styles = StyleSheet.create({
 ```
 
 ## Screen Shot
-
+<div style="text-align:center">
 <img height="800px" src="./screenshot/screenshot1.PNG"/>
 <br/>
 <img height="800px" src="./screenshot/screenshot2.PNG"/>
-
+</div>
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
