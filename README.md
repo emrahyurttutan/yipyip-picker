@@ -68,8 +68,8 @@ const styles = StyleSheet.create({
 
 ## Screen Shot
 
-[![N|Solid](./screenshot/screenshot1.PNG)](./screenshot/screenshot1.PNG)
-[![N|Solid](./screenshot/screenshot2.PNG)](./screenshot/screenshot2.PNG)
+[![N|Solid](./screenshot/screenshot1.PNG | width=800)](./screenshot/screenshot1.PNG )
+[![N|Solid](./screenshot/screenshot2.PNG | width=800)](./screenshot/screenshot2.PNG)
 
 
 ## Contributing
